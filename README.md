@@ -1,22 +1,28 @@
-# Recipes
+# Odin Recipes
 
 A web-based recipe directory built for **The Odin Project** Foundations.
 
 ## 🚀 Features
-* **Recipe Index:** Navigation to Pizza, Apple, and Burger pages.
-* **Dark Theme:** Custom CSS with a dark aesthetic and centered layouts.
-* **Flexbox Navigation:** Horizontal recipe list implementation.
+- **Recipe Index:** Centralized navigation to detailed recipe pages.
+- **Responsive Design:** Utilizes Flexbox for a horizontal navigation layout.
+- **Thematic Styling:** Dark-mode aesthetic featuring high-contrast typography and centered layouts.
+- **GitHub Pages Ready:** Can be opened and viewed directly via GitHub Pages (no local setup required).
 
 ## 🛠️ Tech Stack
-* **HTML5:** Semantic structure and ordered lists.
-* **CSS3:** Flexbox, custom fonts (Courier New), and box modeling.
+- **HTML5:** Semantic document structure and navigation.
+- **CSS3:** Flexbox layout module, box modeling, and custom web fonts.
+
+## 🌐 Live Preview
+This project can be hosted and accessed using **GitHub Pages**.  
+Once enabled, the site will be available at:
+https://melchior729.github.io/recipes/
 
 ## 📂 Project Structure
 ```text
-├── index.html        # Main directory
-├── style.css         # Global styling
+├── index.html        # Landing page & recipe index
+├── style.css         # Main stylesheet
 ├── recipes/          # Recipe sub-pages
 │   ├── apple.html
 │   ├── burger.html
 │   └── pizza.html
-└── images/           # JPG/JPEG assets
+└── images/           # Recipe image assets
