@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 
 A web-based recipe directory built for **The Odin Project** Foundations.
 
